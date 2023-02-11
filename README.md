@@ -11,9 +11,7 @@ In the project directory, you can run:
 
 1 . clone the project 
 
-2 .  ## `npm install`
-
-it will install the project using npm .
+2 .  `npm install` : It will install the project using npm .
 
 ### `npm start`
 
